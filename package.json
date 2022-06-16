@@ -1,0 +1,11 @@
+{
+  "name": "mongo-api",
+  "version": "1.0.0",
+  "description": "config vercel api",
+  "main": "index.js",
+  "author": "Anderson Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^2.2.0"
+  }
+}
